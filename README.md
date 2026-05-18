@@ -30,7 +30,6 @@ This project demonstrates the deployment of a simple Counter Smart Contract on S
 - Remix IDE
 - MetaMask Wallet
 - SecureChain Faucet
-- GitHub
 
 ## Screenshots
 
